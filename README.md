@@ -2,6 +2,8 @@
 
 A simple blog application built with Next.js.
 
+![image](blog_screenshot.png)
+
 ## Features
 * Server-side rendering
 * Static site generation
